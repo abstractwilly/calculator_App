@@ -1,0 +1,4 @@
+#Tue Sep 18 13:55:26 IST 2018
+base.0=C\:\\Users\\Ashish\\AndroidStudioProjects\\helloworld\\mtechviral\\calculator\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
